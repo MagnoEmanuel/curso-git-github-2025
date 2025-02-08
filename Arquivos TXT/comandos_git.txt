@@ -1,0 +1,3 @@
+git init . - iniciar repositório
+git status - mostra o diretório
+git add - sinaliza o que vai commit
