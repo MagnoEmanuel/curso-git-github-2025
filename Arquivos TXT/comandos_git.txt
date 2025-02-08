@@ -6,6 +6,8 @@ git log - mostra histórico de commit
 git diff - mostra o que foi modificado no arquivo
 git reset nomedoarquivo - remove do stage antes do commit
 git checkout -b nomedabranch - cria nova branch
+git merge nomedabranch - mesclar as branchs selecionadas -
+(serve para trazer as alterações de uma branch para outra)
 
 Fluxo de Trabalho
 1. criar diretório
