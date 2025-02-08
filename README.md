@@ -2,7 +2,7 @@
 
 Um curso para iniciantes em Git e Github.
 
-Inclusive iremos aprender GitFlow ao final do curso.
+Inclusive iremos aprender GitFlow e Visual Studio Code ao final do curso.
 
 Confira tudo no único canal que ensina sobre a Área de Dados, de maneira gratuita:
 
