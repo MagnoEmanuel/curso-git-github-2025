@@ -2,3 +2,16 @@ git init . - iniciar repositório
 git status - mostra o diretório
 git add nomedoarquivo - sinaliza o que vai commit
 git commmit -m "msg" - commit
+git log - mostra histórico de commit
+git diff - mostra o que foi modificado no arquivo
+git reset nomedoarquivo - remove do stage antes do commit
+git checkout -b nomedabranch - cria nova branch
+
+Fluxo de Trabalho
+1. criar diretório
+2. iniciar com git init .
+3. criar arquivos
+4. git status
+5. git add
+6. git commit
+7. git status
